@@ -1,2 +1,3 @@
 # BadGame
-bad game.
+
+a bad game.
